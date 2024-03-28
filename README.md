@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @knrdsps
 - 👀 I’m interested in teaching
-- 🌱 I’m currently learning circuitpython
+- 🌱 I’m currently learning circuitpython & micropython
 - 📫 You can reach me at St Paul's School
